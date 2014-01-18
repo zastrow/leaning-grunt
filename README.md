@@ -1,4 +1,4 @@
-leaning-grunt
+Leaning Grunt.js
 =============
 
-Experimental Repo to understand and learn Grunt.js
+Experimental repo to understand and run Grunt.js effectively.
